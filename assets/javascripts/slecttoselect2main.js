@@ -47,6 +47,8 @@ function replaceAllSelect2() {
     "selected_c",
     "issue_template",
     "issue_assigned_to_id",
+    "issue_custom_field_values_75",
+    "issue_custom_field_values_75_",
   ];
   var specificIds = [
     "year",
